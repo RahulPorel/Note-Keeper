@@ -16,6 +16,8 @@ The Markdown based note taking web app that manage's your notes for you and it m
 
 -- If you don.t know what markdown editor is and how to use it then read this great [article](https://www.markdownguide.org/getting-started/) to understand it.
 
+- it's currently in beta stage
+
 # Live Demo 👁️
 
 https://note-kepper-rahulporel.netlify.app/
