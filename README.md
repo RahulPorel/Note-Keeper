@@ -20,7 +20,6 @@ The Markdown based note taking web app that manage's your notes for you and it m
 
 https://note-kepper-rahulporel.netlify.app/
 
-
 # Snapshot of Note-Keeper
 
 ![Screenshot (329)](https://github.com/RahulPorel/Note-Keeper/assets/98636266/8c86f979-9518-4206-b69f-88a55dc26353)
@@ -30,3 +29,17 @@ https://note-kepper-rahulporel.netlify.app/
 ![Screenshot (331)](https://github.com/RahulPorel/Note-Keeper/assets/98636266/34217393-8325-4267-8343-fe637bc0d775)
 
 ![Screenshot (332)](https://github.com/RahulPorel/Note-Keeper/assets/98636266/56b5ea76-ee84-44df-9458-cb2d0ccfa17a)
+
+## To run locally
+
+#### 01. Install node dependices
+
+```npm
+ npm i
+```
+
+#### 02. Run project in localhost
+
+```npm
+ npm run dev
+```
